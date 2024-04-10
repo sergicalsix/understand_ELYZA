@@ -1,7 +1,7 @@
-# understand_ELYZA
+# understand_LLM
 
-ELYZAのモデルとトークナイザを理解するためのリポジトリ
+LLMを理解するためのリポジトリ
 
-以下のQiita記事で内容を解説している。
+- ELYZA理解のためのQiita記事
 
 https://qiita.com/sergicalsix/items/1f8c96fef291730b07c8
